@@ -2,3 +2,12 @@ body {
     background: lightblue;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
+h1 {
+    background-color: aquamarine;
+    font-size:xx-large;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3 {
+    font-size: x-small;
+}
